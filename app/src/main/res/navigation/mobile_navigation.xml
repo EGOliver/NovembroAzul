@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_inicio">
+
+    <fragment
+        android:id="@+id/nav_inicio"
+        android:name="com.projeto.novembroazul.ui.inicio.InicioFragment"
+        android:label="@string/menu_inicio"
+        tools:layout="@layout/fragment_inicio" />
+
+    <fragment
+        android:id="@+id/nav_sobre"
+        android:name="com.projeto.novembroazul.ui.sobre.SobreFragment"
+        android:label="@string/menu_sobre"
+        tools:layout="@layout/fragment_sobre" />
+
+    <fragment
+        android:id="@+id/nav_prevencoes"
+        android:name="com.projeto.novembroazul.ui.prevencoes.PrevencoesFragment"
+        android:label="@string/menu_prevencoes"
+        tools:layout="@layout/fragment_prevencoes" />
+    <fragment
+        android:id="@+id/nav_dadosstat"
+        android:name="com.projeto.novembroazul.ui.dadosstat.DadosStatFragment"
+        android:label="@string/menu_dadosstat"
+        tools:layout="@layout/fragment_dadosstat"/>
+    <fragment
+        android:id="@+id/nav_fatoresrisco"
+        android:name="com.projeto.novembroazul.ui.fatoresrisco.FatoresRiscoFragment"
+        android:label="@string/menu_fatoresrisco"
+        tools:layout="@layout/fragment_fatoresrisco"/>
+    <fragment
+        android:id="@+id/nav_mitoverdade"
+        android:name="com.projeto.novembroazul.ui.mitoverdade.MitoVerdadeFragment"
+        android:label="@string/menu_mitoverdade"
+        tools:layout="@layout/fragment_mitoverdade"/>
+    <fragment
+        android:id="@+id/nav_saibamais"
+        android:name="com.projeto.novembroazul.ui.saibamais.SaibaMaisFragment"
+        android:label="@string/menu_saibamais"
+        tools:layout="@layout/fragment_saibamais"/>
+    <fragment
+        android:id="@+id/nav_sintomas"
+        android:name="com.projeto.novembroazul.ui.sintomas.SintomasFragment"
+        android:label="@string/menu_sintomas"
+        tools:layout="@layout/fragment_sintomas"/>
+    <fragment
+        android:id="@+id/nav_chamada"
+        android:name="com.projeto.novembroazul.ui.chamadaacao.ChamadaAcaoFragment"
+        android:label="@string/menu_chamadaacao"
+        tools:layout="@layout/fragment_chamadaacao"/>
+
+</navigation>

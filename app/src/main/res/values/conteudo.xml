@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apresentacao_app">
+        \t\t Este aplicativo foi desenvolvido como uma atividade, por alunos, com o intuito de
+        ajudar em nossa formação, e a comunidade com informações.\n\n
+
+        \t\t O intuito do aplicativo é trazer de maneira rápida informações sobre a campanha, e também levar até sites
+        que possam dar mais informações e tirar dúvidas.\n\n
+
+        \t\t Vale ressaltar que foram feitas pesquisas para a criação deste aplicativo, podendo ter alguma coisa
+        faltando ou errada, então entre nos sites que terão informações atualizadas.\n
+    </string>
+
+    // Os conteúdos ficarão aqui, separar e adicionar nos fragments certos.
+
+    <string name="sobre1">
+        \t O Novembro Azul é uma campanha global dedicada à conscientização sobre a saúde do homem,
+        com um foco especial na prevenção e detecção precoce do câncer de próstata.
+        Realizada anualmente em diversos países, essa iniciativa visa informar e sensibilizar a população,
+        incentivando os homens a cuidarem melhor da própria saúde e a romperem o estigma em torno da
+        realização de exames preventivos.\n
+    </string>
+    <string name="sobre2">
+        <big><b>Histórico da Campanha</b></big>
+    </string>
+    <string name="sobre3">
+        \t O movimento Novembro Azul teve início na Austrália em 2003, como parte do "Movember",
+        uma campanha em que homens deixavam o bigode crescer durante o mês de novembro para promover
+        o debate sobre saúde masculina. Desde então, o Novembro Azul expandiu-se para além do bigode e
+        tornou-se um símbolo de conscientização sobre a saúde dos homens em geral, abrangendo temas como
+        o câncer de próstata, o câncer de testículo, a saúde mental e o bem-estar físico.\n\n
+
+        \t No Brasil, a campanha ganhou força nos últimos anos, especialmente com o apoio de instituições
+        de saúde e organizações governamentais e não-governamentais, que têm promovido eventos e ações de
+        conscientização em prol da saúde masculina. Monumentos e prédios públicos iluminados de azul são
+        uma marca da campanha no país, chamando a atenção da população para a importância do tema.\n
+    </string>
+    <string name="sobre4">
+        <big><b>Objetivos do Novembro Azul</b></big>
+    </string>
+    <string name="sobre5">
+        \t A campanha Novembro Azul busca:\n\n
+
+        \t Educar e sensibilizar a população sobre a importância dos cuidados com a saúde masculina.\n\n
+
+        \t Incentivar a prevenção: alertar sobre a importância de exames regulares, especialmente para homens acima dos 50 anos.\n\n
+
+        \t Reduzir o preconceito e a desinformação em torno do câncer de próstata e do exame de toque retal.\n\n
+
+        \t Promover o acesso a serviços de saúde para a realização de exames preventivos e diagnósticos.\n
+    </string>
+    <string name="sobre6">
+        <big><b>Por que Falar sobre Câncer de Próstata?</b></big>
+    </string>
+    <string name="sobre7">
+        \t <b>Prevalência:</b> O câncer de próstata é o segundo tipo de câncer mais comum entre os homens,
+        ficando atrás apenas do câncer de pele não melanoma.\n\n
+
+        \t <b>Detecção Precoce Salva Vidas:</b> O diagnóstico em estágios iniciais aumenta as chances
+        de tratamento bem-sucedido e pode reduzir a mortalidade pela doença.\n\n
+
+        \t <b>Superar Barreiras Culturais:</b> Muitos homens evitam exames preventivos devido a preconceitos
+        ou falta de conhecimento. O Novembro Azul trabalha para romper essas barreiras e incentivar uma
+        visão mais aberta e cuidadosa com a saúde.\n
+    </string>
+
+    <string name="fatoresrisco1">
+        \t Compreender os fatores de risco é uma parte essencial para a prevenção do câncer de próstata.
+        Embora alguns fatores não possam ser controlados, conhecer suas condições e manter um estilo
+        de vida saudável pode ajudar a reduzir o risco e melhorar a saúde geral. Abaixo estão os principais
+        fatores de risco associados ao câncer de próstata:\n
+    </string>
+    <string name="fatoresrisco2">
+        <big><b>Idade</b></big>
+    </string>
+    <string name="fatoresrisco3">
+        \t <b>Risco com o Avançar da Idade:</b> O risco de desenvolver câncer de próstata aumenta significativamente a partir dos 50 anos.
+        Cerca de 60% dos casos são diagnosticados em homens com mais de 65 anos.
+        Homens jovens também podem ser diagnosticados, especialmente quando há histórico familiar,
+        mas o risco é maior na idade avançada.\n
+    </string>
+    <string name="fatoresrisco4">
+        <big><b>Histórico Familiar</b></big>
+    </string>
+    <string name="fatoresrisco5">
+        \t <b>Genética e Predisposição:</b> Homens com parentes de primeiro grau (como pai, irmão ou filho) que
+        tiveram câncer de próstata possuem um risco maior de desenvolver a doença.
+        Se mais de um familiar próximo teve câncer de próstata, o risco é ainda mais elevado.
+        A presença de mutações genéticas hereditárias, como BRCA1 e BRCA2, também pode aumentar o risco,
+        embora estas estejam mais associadas ao câncer de mama e ovário.\n
+    </string>
+    <string name="fatoresrisco6">
+        <big><b>Raça e Etnia</b></big>
+    </string>
+    <string name="fatoresrisco7">
+        \t <b>Maior Incidência em Homens Negros:</b> Estudos mostram que homens negros possuem uma maior probabilidade
+        de desenvolver câncer de próstata e, em muitos casos, apresentam formas mais agressivas da doença.
+        A razão exata para essa diferença não é completamente entendida, mas acredita-se que fatores genéticos
+        e acesso à saúde possam influenciar.\n
+    </string>
+    <string name="fatoresrisco8">
+        <big><b>Estilo de Vida e Hábitos Alimentares</b></big>
+    </string>
+    <string name="fatoresrisco9">
+        \t <b>Dieta e Risco de Câncer:</b> Uma alimentação rica em gorduras saturadas e pobre em frutas
+        e vegetais pode estar associada a um risco aumentado de câncer de próstata.
+        Dietas equilibradas, com maior consumo de frutas, verduras, legumes e grãos integrais, ajudam
+        a manter o corpo saudável e podem reduzir o risco de várias doenças, incluindo o câncer de próstata.\n\n
+
+        \t <b>Sedentarismo e Excesso de Peso:</b> Homens que levam um estilo de vida sedentário ou que têm
+        sobrepeso podem ter um risco maior de desenvolver câncer de próstata.
+        A prática regular de exercícios físicos ajuda a controlar o peso e pode contribuir para a redução do risco.\n
+    </string>
+    <string name="fatoresrisco10">
+        <big><b>Exposição a Produtos Químicos</b></big>
+    </string>
+    <string name="fatoresrisco11">
+        \t <b>Fatores Ambientais:</b> Alguns estudos indicam que a exposição a certos produtos químicos,
+        como aqueles presentes em pesticidas e herbicidas, pode estar associada a um risco aumentado de câncer de próstata,
+        especialmente em homens que trabalham na agricultura ou em ambientes industriais.\n
+    </string>
+    <string name="fatoresrisco12">
+        <big><b>Terapia Hormonal</b></big>
+    </string>
+    <string name="fatoresrisco13">
+        \t <b>Reposição de Testosterona:</b> Embora ainda existam debates sobre o impacto da terapia de
+        reposição hormonal no desenvolvimento do câncer de próstata,
+        alguns estudos indicam que níveis elevados de testosterona podem influenciar o crescimento de células prostáticas.
+        Homens que fazem reposição hormonal devem discutir com seu médico sobre os riscos e os benefícios do tratamento.\n
+    </string>
+    <string name="fatoresrisco14">
+        \t Conhecer esses fatores permite que cada homem tome decisões mais informadas sobre sua saúde.
+        Mesmo que não seja possível modificar fatores como idade e histórico familiar,
+        manter um estilo de vida saudável e realizar exames regulares são ações que contribuem para a prevenção e
+        ajudam na detecção precoce do câncer de próstata. O Novembro Azul é um lembrete de que o autocuidado começa com a
+        informação e com atitudes conscientes em direção a uma vida mais saudável.\n
+    </string>
+
+    <string name="sintomas1">
+        \t O câncer de próstata, especialmente em seus estágios iniciais, muitas vezes não apresenta sintomas claros.
+        Isso torna os exames preventivos ainda mais importantes para uma detecção precoce.
+        No entanto, quando o câncer começa a crescer ou a se espalhar, alguns sinais e sintomas podem aparecer.
+        Abaixo estão os principais sintomas associados ao câncer de próstata:\n
+    </string>
+    <string name="sintomas2">
+        <big><b>Dificuldade para Urinar</b></big>
+    </string>
+    <string name="sintomas3">
+        \t <b>Jato Urinário Fraco ou Intermitente:</b> Muitos homens com câncer de próstata relatam dificuldade em iniciar ou
+        manter o fluxo de urina, além de um jato urinário fraco ou que para e recomeça.\n\n
+
+        \t <b>Sensação de Esvaziamento Incompleto da Bexiga:</b> A pessoa pode sentir que não conseguiu esvaziar completamente a
+        bexiga após urinar.\n
+    </string>
+    <string name="sintomas4">
+        <big><b>Necessidade Frequente de Urinar, Especialmente à Noite</b></big>
+    </string>
+    <string name="sintomas5">
+        \t <b>Urinar com Frequência:</b> O aumento da frequência urinária, particularmente durante a noite (conhecido como nictúria),
+        pode ser um sinal de alteração na próstata.\n\n
+
+        \t <b>Urgência para Urinar:</b> A sensação de precisar urinar imediatamente, com dificuldade para segurar, também pode ocorrer.\n
+    </string>
+    <string name="sintomas6">
+        <big><b>Sangue na Urina ou no Sêmen</b></big>
+    </string>
+    <string name="sintomas7">
+        \t <b>Hematuria:</b> A presença de sangue na urina, conhecida como hematuria,
+        pode ser um sintoma associado ao câncer de próstata ou a outras condições urinárias.\n\n
+
+        \t <b>Hemospermia:</b> Sangue no sêmen também pode ocorrer e,
+        embora nem sempre indique câncer, deve ser investigado por um médico.\n
+    </string>
+    <string name="sintomas8">
+        <big><b>Dor ou Desconforto na Região Pélvica e Lombar</b></big>
+    </string>
+    <string name="sintomas9">
+        \t <b>Dor Persistente:</b> Dores na região pélvica, lombar, ou até mesmo nas coxas e quadris,
+        especialmente se persistentes e inexplicáveis, podem indicar que o câncer de próstata se espalhou para outras áreas.\n\n
+
+        \t <b>Desconforto ao Sentar:</b> Em casos avançados, pode haver desconforto ao sentar devido ao aumento da próstata.\n
+    </string>
+    <string name="sintomas10">
+        <big><b>Dificuldade em Ejacular</b></big>
+    </string>
+    <string name="sintomas11">
+        \t <b>Alterações na Ejaculação:</b> Alguns homens podem perceber uma diminuição na quantidade de sêmen
+        ejaculado ou dificuldade durante o processo de ejaculação.\n
+    </string>
+    <string name="sintomas12">
+        <big><b>Disfunção Erétil</b></big>
+    </string>
+    <string name="sintomas13">
+        \t <b>Dificuldade para Manter ou Ter uma Ereção:</b> A disfunção erétil pode ser um sintoma tanto do câncer de
+        próstata quanto de outras condições de saúde, e deve ser abordada com o profissional de saúde.\n
+    </string>
+    <string name="sintomas14">
+        <big><b>Importante:</b> Nem Todos os Sintomas Indicativos de Problemas na Próstata São Necessariamente Câncer</big>
+    </string>
+    <string name="sintomas15">
+        \t Vale lembrar que a presença desses sintomas não significa necessariamente que o homem tem câncer de próstata.
+        Eles podem estar associados a outras condições benignas, como hiperplasia benigna da próstata (aumento não canceroso da próstata)
+        ou infecções urinárias. Contudo, qualquer sintoma persistente ou que gere preocupação deve ser avaliado por um profissional de
+        saúde para garantir um diagnóstico adequado e precoce.\n
+    </string>
+    <string name="sintomas16">
+        <big><b>A Importância de Consultar um Profissional de Saúde</b></big>
+    </string>
+    <string name="sintomas17">
+        \t Mesmo na ausência de sintomas, homens acima dos 50 anos (ou a partir dos 45, caso haja fatores de risco)
+        devem realizar exames preventivos regularmente. Essa prática contribui para a detecção precoce,
+        oferecendo melhores chances de tratamento e controle da doença, caso necessário.
+        O Novembro Azul destaca a importância de cuidar da saúde masculina de forma completa e responsável,
+        lembrando que a prevenção é sempre o melhor caminho.\n
+    </string>
+
+    <string name="prevencoes1">
+        \t Embora não seja possível evitar todos os fatores de risco para o câncer de próstata,
+        adotar um estilo de vida saudável pode contribuir para a redução dos riscos e para uma saúde masculina mais equilibrada.
+        Pequenas mudanças no dia a dia podem fazer uma grande diferença na prevenção e no bem-estar geral.
+        Confira algumas práticas importantes para manter a saúde em dia:\n
+    </string>
+    <string name="prevencoes2">
+        <big><b>Alimentação Balanceada</b></big>
+    </string>
+    <string name="prevencoes3">
+        \t <b>Consumo de Frutas e Vegetais:</b> Aumentar a ingestão de frutas, legumes e verduras fornece vitaminas,
+        minerais e antioxidantes que podem ajudar a proteger o organismo contra o câncer.\n\n
+
+        \t <b>Alimentos Ricos em Licopeno:</b> Tomates, melancia, goiaba e outros alimentos ricos em licopeno, um antioxidante poderoso,
+        podem ajudar a reduzir o risco de câncer de próstata.\n\n
+
+        \t <b>Reduza Alimentos Processados e Gorduras Saturadas:</b> Evitar alimentos processados, embutidos e ricos em gordura saturada é essencial para a saúde da próstata.
+        Priorize alimentos frescos e naturais sempre que possível.\n
+    </string>
+    <string name="prevencoes4">
+        <big><b>Atividade Física Regular</b></big>
+    </string>
+    <string name="prevencoes5">
+        \t <b>Benefícios do Exercício:</b> A prática regular de atividades físicas não só ajuda a controlar o peso,
+        mas também fortalece o sistema imunológico, reduz a inflamação e melhora a saúde cardiovascular.\n\n
+
+        \t <b>Exercícios Recomendados:</b> Caminhadas, corridas leves, natação, musculação e atividades aeróbicas são excelentes
+        para o condicionamento físico e para a saúde geral.\n\n
+
+        \t <b>Duração e Frequência:</b> A Organização Mundial da Saúde recomenda pelo menos 150 minutos de atividade moderada ou
+        75 minutos de atividade intensa por semana.\n
+    </string>
+    <string name="prevencoes6">
+        <big><b>Manutenção de um Peso Saudável</b></big>
+    </string>
+    <string name="prevencoes7">
+        \t <b>Controle do Índice de Massa Corporal (IMC):</b> O excesso de peso, especialmente a gordura abdominal,
+        está associado a um risco aumentado de vários tipos de câncer, incluindo o câncer de próstata.
+        Manter um peso adequado é uma medida importante para a saúde geral.\n\n
+
+        \t <b>Alimentação e Exercício:</b> Adotar uma dieta balanceada e manter uma rotina de exercícios são estratégias
+        essenciais para atingir e manter um peso saudável.\n
+    </string>
+    <string name="prevencoes8">
+        <big><b>Moderação no Consumo de Álcool</b></big>
+    </string>
+    <string name="prevencoes9">
+        \t <b>Consumo Moderado:</b> Beber com moderação é uma recomendação importante. O consumo excessivo de álcool pode aumentar
+        o risco de várias doenças, incluindo o câncer.\n\n
+
+        \t <b>Limite de Consumo:</b> Para a maioria dos homens, a recomendação é de até duas doses por dia,
+        com a preferência por bebidas menos calóricas e maior hidratação para manter o equilíbrio do organismo.\n
+    </string>
+    <string name="prevencoes10">
+        <big><b>Evitar o Tabagismo</b></big>
+    </string>
+    <string name="prevencoes11">
+        \t <b>Riscos Associados ao Fumo:</b> O tabagismo é uma das principais causas de câncer e está ligado a uma série de doenças graves.
+        Embora a relação direta com o câncer de próstata ainda seja estudada, o cigarro prejudica a saúde em geral e afeta a recuperação do organismo.\n\n
+
+        \t <b>Benefícios ao Parar de Fumar:</b> Parar de fumar traz melhorias significativas para a saúde em qualquer fase da vida,
+        reduzindo os riscos de doenças cardíacas, respiratórias e vários tipos de câncer.\n
+    </string>
+    <string name="prevencoes12">
+        <big><b>Rotina de Exames Preventivos</b></big>
+    </string>
+    <string name="prevencoes13">
+        \t <b>PSA e Toque Retal:</b> Para homens a partir dos 50 anos (ou a partir dos 45, em casos de histórico familiar ou fatores de risco),
+        é essencial realizar exames preventivos anuais, como o exame de PSA e o toque retal.
+        Esses exames são rápidos e eficazes na detecção precoce de alterações na próstata.\n\n
+
+        \t <b>Importância do Check-Up Geral:</b> Além dos exames específicos para a próstata, um check-up anual com um médico de confiança pode ajudar
+        a monitorar outros indicadores de saúde e identificar possíveis problemas antes que eles se tornem graves.\n
+    </string>
+    <string name="prevencoes14">
+        <big><b>Adote um Estilo de Vida Saudável e Proativo</b></big>
+    </string>
+    <string name="prevencoes15">
+        \t A prevenção é o melhor caminho para uma vida longa e saudável. Adotar hábitos saudáveis não só ajuda a reduzir o risco de câncer de próstata,
+        mas também melhora a saúde geral e o bem-estar. O Novembro Azul é uma oportunidade para lembrar que cuidar da saúde masculina é um compromisso diário.
+        Faça escolhas conscientes, cuide-se e incentive outros homens a fazerem o mesmo.\n
+    </string>
+
+    <string name="dados1">
+        <big><b>Estatísticas Globais</b></big>
+    </string>
+    <string name="dados2">
+        \t * O câncer de próstata é o <b>segundo tipo de câncer mais comum entre os homens</b> em
+        todo o mundo, ficando atrás apenas do câncer de pele não melanoma.\n\n
+
+        \t * Cerca de <b>1 em cada 8 homens será diagnosticado com câncer de próstata</b> ao longo da vida.\n\n
+
+        \t * Estima-se que, a cada ano, sejam diagnosticados mais de <b>1,4 milhão de novos casos de
+        câncer de próstata</b> no mundo, de acordo com a Organização Mundial da Saúde (OMS).\n
+    </string>
+    <string name="dados3">
+        <big><b>Estatísticas no Brasil</b></big>
+    </string>
+    <string name="dados4">
+        \t * No Brasil, o câncer de próstata é também o <b>segundo tipo de câncer mais frequente entre os homens</b>
+        e representa uma significativa parcela dos diagnósticos de câncer masculinos.\n\n
+
+        \t * O Instituto Nacional do Câncer (INCA) estima que ocorrem cerca de <b>65 mil novos casos de câncer de próstata</b>
+        no Brasil a cada ano.\n\n
+
+        \t * Esse tipo de câncer é responsável por cerca de <b>28% dos casos de câncer</b> diagnosticados
+        em homens no Brasil, tornando-se uma das maiores preocupações de saúde pública no país.\n
+    </string>
+    <string name="dados5">
+        <big><b>Taxas de Sobrevivência e Importância da Detecção Precoce</b></big>
+    </string>
+    <string name="dados6">
+        \t * A <b>taxa de sobrevivência</b> ao câncer de próstata é alta quando a doença
+        é detectada precocemente: mais de 90% dos homens diagnosticados em estágios iniciais
+        sobrevivem por pelo menos cinco anos após o diagnóstico.\n\n
+
+        \t * A detecção precoce permite um tratamento mais eficaz e menos invasivo,
+        reduzindo o impacto da doença na qualidade de vida do paciente.\n
+    </string>
+    <string name="dados7">
+        \t Esses dados reforçam a importância do Novembro Azul e da conscientização sobre a
+        prevenção e a detecção precoce do câncer de próstata, destacando como as taxas de sobrevivência
+        podem melhorar significativamente com a realização de exames regulares.\n
+    </string>
+
+    <string name="mitoverdade1">
+        \t A falta de informação ou informações incorretas podem contribuir para o medo e o preconceito em torno do câncer de próstata e dos exames preventivos.
+        Desmistificar essas ideias é fundamental para incentivar uma abordagem mais aberta e informada sobre a saúde masculina.
+        Veja a seguir alguns dos principais mitos e verdades:\n
+    </string>
+    <string name="mitoverdade2">
+        \t <b>Mito:</b> O exame de toque retal é doloroso.\n\n
+
+        \t <b>Verdade:</b> O exame de toque retal é rápido e, na maioria dos casos, indolor.
+        Pode causar um leve desconforto, mas é um procedimento simples que dura apenas alguns segundos.
+        Sua eficácia na detecção precoce do câncer de próstata faz com que esse pequeno incômodo valha a pena.\n
+    </string>
+    <string name="mitoverdade3">
+        \t <b>Mito:</b> Apenas homens mais velhos precisam se preocupar com o câncer de próstata.\n\n
+
+        \t <b>Verdade:</b> Embora o risco de câncer de próstata aumente com a idade, homens com histórico familiar da doença devem começar a se cuidar desde os 45 anos.
+        Além disso, a conscientização sobre a saúde masculina deve começar cedo para que hábitos preventivos sejam adotados ao longo da vida.\n
+    </string>
+    <string name="mitoverdade4">
+        \t <b>Mito:</b> Se eu não tenho sintomas, não preciso fazer exames.\n\n
+
+        \t <b>Verdade:</b> O câncer de próstata em estágios iniciais geralmente não apresenta sintomas.
+        Por isso, exames preventivos como o PSA e o toque retal são recomendados mesmo para homens que não apresentam sinais de problemas.
+        A detecção precoce permite um tratamento menos invasivo e com maiores chances de sucesso.\n
+    </string>
+    <string name="mitoverdade5">
+        \t <b>Mito:</b> A biópsia pode espalhar o câncer.\n\n
+
+        \t <b>Verdade:</b> Não há evidências científicas que comprovem que a biópsia possa espalhar o câncer.
+        A biópsia é um procedimento seguro, que auxilia no diagnóstico e possibilita a definição do tratamento adequado.\n
+    </string>
+    <string name="mitoverdade6">
+        \t <b>Mito:</b> Usar bicicleta aumenta o risco de câncer de próstata.\n\n
+
+        \t <b>Verdade:</b> Não há relação entre o uso de bicicletas e o câncer de próstata.
+        Andar de bicicleta não aumenta o risco de desenvolver a doença, embora possa causar desconforto temporário em alguns homens.
+        No entanto, esse desconforto é passageiro e não afeta a saúde da próstata.\n
+    </string>
+    <string name="mitoverdade7">
+        \t <b>Mito:</b> Problemas urinários são sempre sinal de câncer de próstata.\n\n
+
+        \t <b>Verdade:</b> Problemas urinários podem ter várias causas, como infecções, aumento benigno da próstata (hiperplasia benigna da próstata) ou outras condições.
+        Embora o câncer de próstata também possa causar sintomas urinários, esses sinais não são exclusivos da doença e devem ser avaliados por um médico para um
+        diagnóstico correto.\n
+    </string>
+    <string name="mitoverdade8">
+        \t <b>Mito:</b> O câncer de próstata sempre evolui de forma agressiva.\n\n
+
+        \t <b>Verdade:</b> Em muitos casos, o câncer de próstata cresce lentamente e pode não causar problemas significativos durante muitos anos.
+        Existem diferentes tipos de câncer de próstata, e o tratamento é personalizado conforme a agressividade do tumor e o estado de saúde do paciente.\n
+    </string>
+    <string name="mitoverdade9">
+        <big><b>Informação como Aliada na Prevenção</b></big>
+    </string>
+    <string name="mitoverdade10">
+        \t Desvendar esses mitos é uma maneira de entender melhor a importância dos cuidados com a saúde masculina e de adotar uma postura preventiva.
+        O Novembro Azul reforça que a informação é um dos maiores aliados na prevenção do câncer de próstata,
+        permitindo que mais homens se cuidem com responsabilidade e sem medo.\n
+    </string>
+
+    <string name="chamadaacao1">
+        \t O Novembro Azul é um convite para que todos os homens se cuidem e falem mais abertamente sobre a própria saúde.
+        A campanha propõe ações concretas que ajudam na prevenção e incentivam um estilo de vida mais saudável,
+        especialmente quando se trata da saúde masculina e da prevenção do câncer de próstata.
+        Confira as principais ações que você pode adotar para promover sua saúde e incentivar outros homens a fazerem o mesmo:\n
+    </string>
+    <string name="chamadaacao2">
+        <big><b>Realize Exames Preventivos</b></big>
+    </string>
+    <string name="chamadaacao3">
+        \t <b>Exame de PSA e Toque Retal:</b> Para homens acima dos 50 anos, ou a partir dos 45 para aqueles que possuem
+        histórico familiar ou fatores de risco, realizar exames anuais de PSA (Antígeno Prostático Específico) e toque retal é essencial.
+        Esses exames são rápidos e ajudam a detectar precocemente qualquer alteração na próstata, aumentando as chances de tratamento eficaz.\n\n
+
+        \t <b>Exame de Saúde Geral:</b> Além dos exames específicos para o câncer de próstata, fazer check-ups regulares ajuda a
+        identificar precocemente diversas condições de saúde, como diabetes, hipertensão e colesterol alto, que afetam
+        diretamente o bem-estar e a qualidade de vida.\n
+    </string>
+    <string name="chamadaacao4">
+        <big><b>Informe-se e Converse sobre Saúde Masculina</b></big>
+    </string>
+    <string name="chamadaacao5">
+        \t <b>Quebre o Silêncio:</b> Muitos homens evitam falar sobre sua saúde por medo ou vergonha.
+        O Novembro Azul incentiva todos a buscarem informações confiáveis e a tirarem suas dúvidas com profissionais de saúde.\n\n
+
+        \t <b>Converse com Amigos e Familiares:</b> Falar sobre a importância dos cuidados preventivos com
+        aqueles ao seu redor é uma forma de fortalecer a campanha e encorajar mais homens a se cuidarem.\n
+    </string>
+    <string name="chamadaacao6">
+        <big><b>Adote Hábitos Saudáveis</b></big>
+    </string>
+    <string name="chamadaacao7">
+        \t <b>Alimente-se Bem:</b> Manter uma dieta rica em frutas, verduras, legumes,
+        grãos integrais e reduzir o consumo de alimentos processados e gorduras saturadas contribui
+        para a saúde da próstata e reduz o risco de várias doenças.\n\n
+
+        \t <b>Pratique Exercícios Físicos:</b> A atividade física regular ajuda a manter o peso ideal,
+        reduz o risco de câncer e fortalece o sistema imunológico, além de ser benéfica para a saúde mental.\n\n
+
+        \t <b>Evite o Tabagismo e Modere o Consumo de Álcool:</b> Fumar e consumir bebidas alcoólicas em excesso estão
+        associados a um aumento no risco de diversos tipos de câncer e outras doenças crônicas.\n
+    </string>
+    <string name="chamadaacao8">
+        <big><b>Divulgue a Campanha e Incentive Outros Homens</b></big>
+    </string>
+    <string name="chamadaacao9">
+        \t <b>Participe das Ações do Novembro Azul:</b> Esteja presente em eventos e atividades que
+        promovam a conscientização sobre o câncer de próstata e a saúde masculina.
+        Compartilhe informações nas redes sociais e ajude a campanha a alcançar mais pessoas.\n\n
+
+        \t <b>Seja um Exemplo:</b> Ao cuidar de sua saúde e falar abertamente sobre o tema,
+        você inspira outros homens a fazerem o mesmo, mostrando que é possível prevenir e cuidar da
+        saúde com responsabilidade e consciência.\n
+    </string>
+    <string name="chamadaacao10">
+        \t O Novembro Azul é um movimento que se constrói a partir de ações simples e significativas.
+        Ao realizar exames preventivos, manter hábitos saudáveis e incentivar outros homens,
+        você está contribuindo para um futuro mais saudável para você e para todos ao seu redor.
+        Cuide-se e seja parte ativa dessa campanha!\n
+    </string>
+
+    <string name="saibamais1">
+        \t Para aqueles que desejam se aprofundar e buscar mais informações sobre o câncer de próstata e a saúde masculina,
+        o Novembro Azul oferece uma oportunidade de acesso a fontes confiáveis e materiais educativos.
+        Abaixo estão recursos valiosos que podem ajudar na conscientização e na orientação sobre a prevenção, o diagnóstico e o tratamento:\n
+    </string>
+    <string name="saibamais2">
+        \t <b>Ministério da Saúde:</b> O site do Ministério da Saúde disponibiliza informações atualizadas sobre a saúde masculina
+        e o câncer de próstata, além de dados sobre campanhas de prevenção e conscientização. https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/c/cancer-de-prostata \n
+    </string>
+    <string name="saibamais3">
+        \t <b>Instituto Nacional do Câncer (INCA):</b> O INCA oferece materiais completos sobre prevenção, fatores de risco, diagnóstico e
+        tratamento do câncer de próstata. É uma fonte confiável para informações detalhadas e dados estatísticos.\n
+        1- https://www.gov.br/inca/pt-br \n\n
+        2- https://www.gov.br/inca/pt-br/centrais-de-conteudo/exposicoes/coletanea-saude-do-homem \n\n
+        3- https://www.gov.br/inca/pt-br/assuntos/cancer/tipos/prostata\n
+    </string>
+    <string name="saibamais4">
+        \t <b>Sociedade Brasileira de Urologia (SBU):</b> A SBU publica orientações e campanhas sobre saúde urológica,
+        além de materiais para incentivar a prevenção e o diagnóstico precoce do câncer de próstata. https://portaldaurologia.org.br/ \n
+    </string>
+    <string name="saibamais5">
+        \t <b>Sociedade Brasileira de Oncologia Clínica (SBOC):</b> Oferece conteúdos educativos e campanhas de conscientização sobre
+        os diversos tipos de câncer, incluindo o câncer de próstata. https://www.sboc.org.br/prevencao/item/2105-novembro-azul \n
+    </string>
+    <string name="saibamais6">
+        \t <b>Oncoguia:</b> Esta organização sem fins lucrativos oferece apoio a pacientes e familiares, com informações claras sobre o câncer,
+        direitos dos pacientes, e orientações para o dia a dia. https://www.oncoguia.org.br/cancer/cancer-de-prostata/ \n
+    </string>
+    <string name="saibamais7">
+        \t <b>Instituto Lado a Lado pela Vida:</b> Focado na conscientização sobre a saúde masculina e no apoio aos pacientes com câncer,
+        o Instituto Lado a Lado organiza campanhas, palestras e disponibiliza recursos para o público.
+        https://ladoaladopelavida.org.br/campanha/1685458317851x913373486338539500 \n
+    </string>
+    <string name="saibamais8">
+        \t <b>Tua Saúde:</b> Uma plataforma que aborda temas de saúde de forma acessível, com artigos sobre prevenção,
+        sintomas e tratamentos do câncer de próstata. https://www.tuasaude.com/cancer-de-prostata/ \n
+    </string>
+</resources>

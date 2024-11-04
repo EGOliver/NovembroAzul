@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_inicio"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/menu_inicio" />
+        <item
+            android:id="@+id/nav_sobre"
+            android:icon="@drawable/oculos_bigode_bg"
+            android:title="@string/menu_sobre" />
+        <item
+            android:id="@+id/nav_sintomas"
+            android:icon="@drawable/oculos_bigode_bg"
+            android:title="@string/menu_sintomas" />
+        <item
+            android:id="@+id/nav_fatoresrisco"
+            android:icon="@drawable/oculos_bigode_bg"
+            android:title="@string/menu_fatoresrisco" />
+        <item
+            android:id="@+id/nav_prevencoes"
+            android:icon="@drawable/oculos_bigode_bg"
+            android:title="@string/menu_prevencoes" />
+        <item
+            android:id="@+id/nav_dadosstat"
+            android:icon="@drawable/oculos_bigode_bg"
+            android:title="@string/menu_dadosstat" />
+        <item
+            android:id="@+id/nav_mitoverdade"
+            android:icon="@drawable/oculos_bigode_bg"
+            android:title="@string/menu_mitoverdade" />
+        <item
+            android:id="@+id/nav_chamada"
+            android:icon="@drawable/oculos_bigode_bg"
+            android:title="@string/menu_chamadaacao"/>
+        <item
+            android:id="@+id/nav_saibamais"
+            android:icon="@drawable/ic_notifications_black_24dp"
+            android:title="@string/menu_saibamais" />
+    </group>
+</menu>

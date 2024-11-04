@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cardView">#4DB6AC</color>
+    <color name="corBarra">#4DB6AC</color>
+    <color name="corTexto">#FFFFFFFF</color>
+    <color name="links">#0B408F</color>
+</resources>

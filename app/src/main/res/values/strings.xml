@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Novembro Azul</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Novembro Azul</string>
+    <string name="nav_header_subtitle">Uma Campanha de Conscientização</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="criadores">
+        Aplicativo criado e desenvolvido por:\n
+        <b>Eduardo Gabriel de Oliveira</b> e <b>Laura Monteiro Silva</b>\n
+        Estudantes de ADS na UNIP.
+    </string>
+
+    <string name="menu_inicio">Inicio</string>
+    <string name="menu_sobre">Sobre o Novembro Azul</string>
+    <string name="menu_sintomas">Sintomas</string>
+    <string name="menu_fatoresrisco">Fatores de Risco</string>
+    <string name="menu_prevencoes">Prevenções</string>
+    <string name="menu_dadosstat">Dados Estatísticos</string>
+    <string name="menu_mitoverdade">Mito x Verdade</string>
+    <string name="menu_chamadaacao">Chamada para Ação</string>
+    <string name="menu_saibamais">Saiba Mais</string>
+</resources>
